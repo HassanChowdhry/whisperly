@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="white">#FFFFFF</color>
+    <color name="white_2">#B8FFFFFF</color> <!-- rgba(255, 255, 255, 0.72) -->
+    <color name="white_3">#66FFFFFF</color> <!-- rgba(255, 255, 255, 0.4) -->
+    <color name="white_4">#A3FFFFFF</color> <!-- rgba(255, 255, 255, 0.64) -->
+    <color name="white_5">#CCFFFFFF</color> <!-- rgba(255, 255, 255, 0.8) -->
+
+
+    <color name="black">#000000</color>
+    <color name="black_1">#15171C</color>
+    <color name="black_2">#222429</color>
+    <color name="black_3">#101114</color>
+    <color name="black_4">#252525</color>
+    <color name="black_5">#2E3036</color>
+    <color name="black_6">#24272C</color>
+
+    <color name="sakura_1">#ff92c4</color>
+    <color name="sakura_2">#c3829e</color>
+</resources>
